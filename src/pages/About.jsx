@@ -11,9 +11,12 @@ function About() {
             Education & Training
           </h1>
           <p className="leading-relaxed text-gray-200">
-            Bachelor in Computer Application, G.G.N Khalsa College (2019) <br />
-            +2 in Computer Application, P.A.U (2016) <br />
-            Currently pursuing Full Stack Developer Internship at Webistic.
+            I am a Bachelor of Computer Applications graduate from G.G.N Khalsa
+            College (2019) with a strong interest in web development. I
+            completed my +2 in Computer Applications from P.A.U (2016).
+            Currently, I am pursuing a Full Stack Developer Internship at
+            Webistic, where I am gaining hands-on experience in building modern
+            web applications.
           </p>
 
           {/* Divider */}
